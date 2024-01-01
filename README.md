@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Gayum+Sasiri;" alt="Typing SVG">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Gayum+Sasiri;" alt="Typing SVG">
 </p>
 <div align="center">
   <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
