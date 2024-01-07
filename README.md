@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 About Me
 
-🎓 I'm Gayum Hendawitharana,I'm a passionate web developer with a strong background in both front-end and back-end development. My primary goal is to craft visually stunning and user-friendly websites that provide exceptional user experiences. What truly excites me about web development is its continuously evolving nature. I'm dedicated to keeping up with the latest technologies and trends and am constantly on the lookout for opportunities to broaden my skill set. Whether it's mastering new frameworks or exploring innovative design patterns, I'm committed to pushing the boundaries of what's achievable in the digital world. 
+🎓 I'm Gayum Sasiri Hendawitharana,I'm a passionate web developer with a strong background in both front-end and back-end development. My primary goal is to craft visually stunning and user-friendly websites that provide exceptional user experiences. What truly excites me about web development is its continuously evolving nature. I'm dedicated to keeping up with the latest technologies and trends and am constantly on the lookout for opportunities to broaden my skill set. Whether it's mastering new frameworks or exploring innovative design patterns, I'm committed to pushing the boundaries of what's achievable in the digital world. 
 
 ## 🛠️ Skills
 
