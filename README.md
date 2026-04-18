@@ -1,26 +1,32 @@
-<!--- 
-👋 Hi, I'm @gayumSasiri
-- 👀 I'm interested in ...
-- 🌱 I'm currently learning ...
-- 💞️ I'm looking to collaborate on ...
-- 📫 How to reach me ...
-
--->
 <!---
 gayumSasiri/gayumSasiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Gayum+Sasiri;" alt="Typing SVG">
-</p>
 <div align="center">
-  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:1a2744,100:38bdf8&height=200&section=header&text=Gayum%20Sasiri&fontSize=50&fontColor=7ee8a2&fontAlignY=38&desc=Associate%20Software%20Engineer&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Talk+is+cheap.+Show+me+the+code.+%F0%9F%92%BB;Full-Stack+Developer+%7C+AI+Enthusiast;Building+things+that+matter+%F0%9F%9A%80;Powered+by+caffeine+%26+curiosity+%E2%98%95" alt="Typing SVG" />
+
 </div>
 
-## 🚀 About Me
+---
 
-🎓 I'm Gayum Sasiri Hendawitharana,I'm a passionate web developer with a strong background in both front-end and back-end development. My primary goal is to craft visually stunning and user-friendly websites that provide exceptional user experiences. What truly excites me about web development is its continuously evolving nature. I'm dedicated to keeping up with the latest technologies and trends and am constantly on the lookout for opportunities to broaden my skill set. Whether it's mastering new frameworks or exploring innovative design patterns, I'm committed to pushing the boundaries of what's achievable in the digital world. 
+## 🧠 About Me
+
+```javascript
+const gayum = {
+  role     : "Associate Software Engineer",
+  motto    : "Talk is cheap. Show me the code.",
+  focus    : ["Full-Stack Development", "AI-Powered Workflows", "Clean Architecture"],
+  learning : ["Cloud Native", "LLM Integration", "System Design"],
+  fun_fact : "I debug with console.log and I'm not ashamed 😄"
+};
+```
+
+> 🎓 I'm **Gayum Sasiri Hendawitharana** — a passionate full-stack developer with a strong background in both front-end and back-end development. I craft visually stunning, user-friendly web experiences and embrace AI-powered workflows to ship smarter and faster. Always on the lookout to broaden my skill set and push the boundaries of what's achievable in the digital world.
+
+---
 
 ## 🛠️ Skills
 
@@ -29,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Markup, Expression, and Other Languages
+### Markup, Expression & Other Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -51,13 +57,13 @@ You can click the Preview link to take a look at your changes.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### Java Libraries and Frameworks
+### Java Libraries & Frameworks
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-### ECMAScript Libraries and Frameworks
+### ECMAScript Libraries & Frameworks
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -86,14 +92,14 @@ You can click the Preview link to take a look at your changes.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
-### AI Tools
+### 🤖 AI Tools
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Amazon Q](https://img.shields.io/badge/Amazon%20Q-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
-### Monitoring & Observability
+### 📊 Monitoring & Observability
 ![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
@@ -118,14 +124,23 @@ You can click the Preview link to take a look at your changes.
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br/>
- <br>
-<h2>Connect with me</h2>
-<div> 
+
+---
+
+## 🤝 Connect with me
+
+<div align="center">
   <a href="mailto:gayumsasiri.gs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/gayum-hendawitharana-0692a3299" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1a2744,100:0a0e17&height=120&section=footer" width="100%"/>
 </div>
